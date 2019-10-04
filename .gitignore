@@ -6,4 +6,4 @@ jspm_packages
 .serverless
 
 # Ide directories
-.idea
+.idea/
